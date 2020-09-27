@@ -4,11 +4,7 @@ by https://www.youtube.com/watch?v=tBweoUiMsDg
 
 data from https://api.themoviedb.org/3
 
-## Available Scripts
-
-In the project directory, you can run:
-
-Comandos usados de execução no windows 
+## Comandos usados de execução no Windows: 
 
 ### `npx create-react-app netflixclone`
 
@@ -16,9 +12,9 @@ Comandos usados de execução no windows
 
 ### `yarn start`
 
-### `yarn add @material-ui/core` 
+### `npm add @material-ui/core` 
 
-### `yarn add @material-ui/icons` 
+### `npm add @material-ui/icons` 
 
 ## Get your API_KEY and config in Tmdb API_KEY
 
