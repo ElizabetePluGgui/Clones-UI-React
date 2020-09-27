@@ -19,5 +19,5 @@ data from https://api.themoviedb.org/3
 ## Get your API_KEY and config in Tmdb API_KEY
 
 ## imgs
-![Screenshot_1](/imgs/Screenshot_1.png "Screenshot_1")![Screenshot_2](/imgs/Screenshot_2.png "Screenshot_2")![Screenshot_3](/imgs/Screenshot_3.png "Screenshot_3")
+![Screenshot_1](/img/Screenshot_1.png "Screenshot_1")![Screenshot_2](/img/Screenshot_2.png "Screenshot_2")![Screenshot_3](/img/Screenshot_3.png "Screenshot_3")
       
