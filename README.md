@@ -1,11 +1,16 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Olá clonei o UI para Estudos de React segue o link para estudos:
+
+by https://www.youtube.com/watch?v=tBweoUiMsDg
+
+data from https://api.themoviedb.org/3
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 Comandos usados de execução no windows 
 
-### `npx create-`
+### `npx create-react-app netflixclone`
 ### `yarn start`
 
 
